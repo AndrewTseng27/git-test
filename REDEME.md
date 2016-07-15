@@ -1,1 +1,1 @@
-g git-test test2
+g git-test functionA
